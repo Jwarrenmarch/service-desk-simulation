@@ -7,6 +7,7 @@
 **Business Impact:** Security compliance requirement - must complete before end of business Friday
 
 —----
+
 ##User Request
 
 Mike Reeves (Facilities, Floor 3) submitted an HR-approved offboarding request for Sarah Mutcheel (smitchell), Marketing Department, whose last day is this Friday, Required actions per offboarding checklist:
