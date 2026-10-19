@@ -20,7 +20,6 @@ Recover and unassign all IT assets
 
 The manager had been notified. HR Director approval confirmed in ticket.
 
-—----
 
 [Ticket received]
 <img width="1445" height="671" alt="Screenshot 2026-09-25 at 7 49 05 PM" src="https://github.com/user-attachments/assets/ec4f35df-d906-4505-98b1-e4099bf3d0cf" />
@@ -76,7 +75,7 @@ Status update to “Ready to deploy” - asset return to available inventory.
 <img width="1445" height="640" alt="Screenshot 2026-09-25 at 8 39 05 PM" src="https://github.com/user-attachments/assets/d50f2d25-c11c-46ca-89cf-1778b36b8ee5" />
 Ticket closed with resolution notes confirming all offboarding steps completed per HR checklist
 
-—-
+##
 
 Resolution Steps
 
