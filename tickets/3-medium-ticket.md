@@ -6,8 +6,8 @@
 **Status:** Resolved
 **Business Impact:** Security compliance requirement - must complete before end of business Friday
 
-—
-User Request
+—----
+##User Request
 
 Mike Reeves (Facilities, Floor 3) submitted an HR-approved offboarding request for Sarah Mutcheel (smitchell), Marketing Department, whose last day is this Friday, Required actions per offboarding checklist:
 
@@ -19,7 +19,7 @@ Recover and unassign all IT assets
 
 The manager had been notified. HR Director approval confirmed in ticket.
 
-—
+—----
 
 [Ticket received]
 <img width="1445" height="671" alt="Screenshot 2026-09-25 at 7 49 05 PM" src="https://github.com/user-attachments/assets/ec4f35df-d906-4505-98b1-e4099bf3d0cf" />
