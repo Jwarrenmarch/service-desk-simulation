@@ -6,6 +6,7 @@ Platform: ServiceDeskSimulator.com
 ## Technical Skills
 
 **Active Directory and Identify Management**
+
 User account administration - display name, email, and alias update
 
 Account de provisioning - disabling accounts, password resets, group membership removal
@@ -17,6 +18,7 @@ Email alias management to preserve continuity
 ##
 
 **Hardware and Endpoint Support**
+
 Complete hardware failure diagnosis
 
 PC deployment using PXE boot and server imaging task sequence
@@ -30,6 +32,7 @@ Domain join verification post deployment
 ##
 
 **Remote Support**
+
 Remote desktop connection and admin authentication
 
 Remote system diagnostics - checking memory, storage, and driver status
@@ -39,6 +42,7 @@ Remote driver and firmware updates
 Resolving issues without requiring physical presence
 
 **Software and License Management**
+
 Software license identification and revocation during off boarding
 
 Asset management - locating, unassigning, and recovering hardware
@@ -46,6 +50,7 @@ Asset management - locating, unassigning, and recovering hardware
 ##
 
 **Deployment and Imaging**
+
 Server imaging task sequence with end-to-end workstation deployment
 
 OSDCOMPUTERNAME variable configuration
@@ -57,6 +62,7 @@ PC shelf management and shipping coordination
 ##
 
 **Documentation and SOPs**
+
 Consulting internal documentation before acting
 
 Following structured deployment procedures
@@ -90,6 +96,7 @@ Maintaining calm and professional tone under pressure
 Obtaining required information from users efficiently
 
 ## Ticket Completed
+
 01 Ticket ID: INC0012871 |Priority: CRITICAL |Title: PC completely dead 
 
 02 Ticket ID: INC920819 |Priority: HIGH| Title: Slow and Choppy Screen
