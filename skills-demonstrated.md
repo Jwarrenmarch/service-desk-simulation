@@ -14,6 +14,8 @@ Identity verification before making account changes
 
 Email alias management to preserve continuity
 
+##
+
 **Hardware and Endpoint Support**
 Complete hardware failure diagnosis
 
@@ -24,6 +26,8 @@ Driver identification and update - resolving display performance issues via remo
 Physical workstation setup and cable configuration
 
 Domain join verification post deployment
+
+##
 
 **Remote Support**
 Remote desktop connection and admin authentication
@@ -39,6 +43,8 @@ Software license identification and revocation during off boarding
 
 Asset management - locating, unassigning, and recovering hardware
 
+##
+
 **Deployment and Imaging**
 Server imaging task sequence with end-to-end workstation deployment
 
@@ -47,6 +53,8 @@ OSDCOMPUTERNAME variable configuration
 Task sequence authentication and domain join
 
 PC shelf management and shipping coordination
+
+##
 
 **Documentation and SOPs**
 Consulting internal documentation before acting
