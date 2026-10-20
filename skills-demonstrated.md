@@ -57,6 +57,10 @@ Maintaining calm and professional tone under pressure
 Obtaining required information from users efficiently
 
 ## Ticket Completed
+01 Ticket ID: INC0012871 |Priority: CRITICAL |Title: PC completely dead 
+02 Ticket ID: INC920819 |Priority: HIGH| Title: Slow and Choppy Screen
+03 Ticket ID: INC300944 |Priority: MEDIUM| Title: Employee off boarding
+04 Ticket ID: INC0012861 |Priority: LOW | Title: Legal Name Change
 
 
 
