@@ -10,6 +10,9 @@ Completed realistic helpdesk scenarios simulating a live IT service desk environ
 ## Tickets
 
 01 Ticket ID: INC0012871 |Priority: Critical|Title: PC dead |Skills:Hardware Failure,PC replacement and Deployment, server imaging, shipping|
+
 02 Ticket ID: INC920819 |Priority: High| Title: | Skills:  |
+
 03 Ticket ID: INC300944 |Priority: MEDIUM| Title: | Skills: |
+
 04 Ticket ID: INC0012861 |Priority: LOW | Title: | Skills: |
