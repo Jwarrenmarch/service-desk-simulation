@@ -1,7 +1,9 @@
 # IT Service Desk Simulation
 
 **Platform:** ServiceDeskSimulator.com
+
 **Ticket completed:** 4
+
 **Priority levels covered:** Low, Medium, High, Critical
 
 ## Overview
