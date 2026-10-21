@@ -92,20 +92,21 @@ Outdated graphics drivers - specifically the Integrated Graphics Driver and Vant
 Resolution Steps
 
 Read ticket and assessed symptoms - identified likely graphics driver issue based on all-encompassing display degradation
-Initiated remote desktop session and located Nina Patel’s machine SD1020
-Authenticated using admin credentials
-Accessed Nina’s desktop remotely
-Opened Settings and navigated to System Update
-Reviewed system information - confirmed 32GB RAM at 38% usage and storage at 62% - ruled out hardware resource constraints as root cause
-Ran Check for updates - discovered 6 pending updates including critically outdated graphics drivers
-Installed all 6 updates including BIOS, integrated Graphics Driver, Vantix VG-7600 Driver, System Firmware, Audio Driver, Power Management Driver
-Initiated system restart as prompted to apply changes
-Confirmed Device returned to login screen - system operational
-Closed ticket with resolution notes
+- Initiated remote desktop session and located Nina Patel’s machine SD1020
+- Authenticated using admin credentials
+- Accessed Nina’s desktop remotely
+- Opened Settings and navigated to System Update
+- Reviewed system information - confirmed 32GB RAM at 38% usage and storage at 62% - ruled out hardware resource constraints as root cause
+- Ran Check for updates - discovered 6 pending updates including critically outdated graphics drivers
+- Installed all 6 updates including BIOS, integrated Graphics Driver, Vantix VG-7600 Driver, System Firmware, Audio Driver, Power Management Driver
+- Initiated system restart as prompted to apply changes
+- Confirmed Device returned to login screen - system operational
+- Closed ticket with resolution notes
 
 ##
 
 Key skills Demonstrated
+
 -High priority incident management - appropriate urgency and response
 -Remote desktop support - connecting to and troubleshooting a user’s machine remotely
 - Systematic troubleshooting methodology - ruling out memory and storage before identifying drivers as root cause
