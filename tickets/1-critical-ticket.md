@@ -93,42 +93,34 @@ Ticket closed with resolution notes documenting PXE boot deployment and shipment
 ##
 
 Resolution Steps
-Received CRITICAL ticket - assessed symptoms and confirmed complete hardware failure based on user troubleshooting already performed (outlet confirmed working, no response whatsoever)
-Determined repair not viable - immediate replacement machine required
-Consulted Documentation Station for correct deployment procedure - located server imaging and deployment credentials guides.
-Initiated physical setup of replacement workstation SD2036 - connected all 5 required cables and confirmed Ready to Boot
-Booted replacement machine and entered deployment Task Sequence Wizard
-Authenticated to deployment share using task sequence credentials from documentation 
-Set OSDCOMPUTERNAME variable to SD2036 - ensuring correct asset identity assigned to replacement machine
-Ran imaging task sequence - OS setup and domain join complete automatically to servicedesk-simulator.local
-Signed in with domain credentials at Step 11 to verify successful deployment
-Confirmed deployment successful - SD2036 ready in PC Shelf 
-Opened Ship Manager - contacted Quinn Adams via chat to obtain delivery address
-Configured shipment: SD2036, Rush Priority (Instant), return label included for failed hardware recovery
-Shipped replacement machine to Quinn Adams, 7286 Willow Way, Raleigh, NC 27601
-Received user confirmation - replacement received and working correctly
-Closed ticket with resolution notes
+- Received CRITICAL ticket - assessed symptoms and confirmed complete hardware failure based on user troubleshooting already performed (outlet confirmed working, no response whatsoever)
+- Determined repair not viable - immediate replacement machine required
+- Consulted Documentation Station for correct deployment procedure - located server imaging and deployment credentials guides.
+- Initiated physical setup of replacement workstation SD2036 - connected all 5 required cables and confirmed Ready to Boot
+- Booted replacement machine and entered deployment Task Sequence Wizard
+- Authenticated to deployment share using task sequence credentials from documentation 
+- Set OSDCOMPUTERNAME variable to SD2036 - ensuring correct asset identity assigned to replacement machine
+- Ran imaging task sequence - OS setup and domain join complete automatically to servicedesk-simulator.local
+- Signed in with domain credentials at Step 11 to verify successful deployment
+- Confirmed deployment successful - SD2036 ready in PC Shelf 
+- Opened Ship Manager - contacted Quinn Adams via chat to obtain delivery address
+- Configured shipment: SD2036, Rush Priority (Instant), return label included for failed hardware recovery
+- Shipped replacement machine to Quinn Adams, 7286 Willow Way, Raleigh, NC 27601
+- Received user confirmation - replacement received and working correctly
+- Closed ticket with resolution notes
 
 ##
 Key Skills Demonstrated
 
-CRITICAL incident management - correct prioritization and rapid response to business-stopping issue
-
-Hardware failure diagnosis - correctly identifying complete hardware failure vs repairable fault based on symptom analysis
-
-PC deployment and imaging - full end-to-end workstation deployment using PXE boot and server imaging task sequence
-
-Domain join process - understanding of domain authentication and workstation provisioning to Active Directory domain
-
-Documentation usage - consulting internal SOPs and credentials documentation before proceeding with deployment - following correct procedure
-
-Asset management - assigning correct asset tag (OSDCOMPUTERNAME) during deployment
-
-Hardware shipping and logistics - configuring replacement shipment with correct details including return label for failed hardware recovery
-
-User communication under pressure - maintaining professional, calm communication with user during a CRITICAL business-stopping incident
-
-End-to-end ownership - managed the entire incident from initial diagnosis through deployment, shipping, and user confirmation
+- CRITICAL incident management - correct prioritization and rapid response to business-stopping issue
+- Hardware failure diagnosis - correctly identifying complete hardware failure vs repairable fault based on symptom analysis
+- PC deployment and imaging - full end-to-end workstation deployment using PXE boot and server imaging task sequence
+- Domain join process - understanding of domain authentication and workstation provisioning to Active Directory domain
+- Documentation usage - consulting internal SOPs and credentials documentation before proceeding with deployment - following correct procedure
+- Asset management - assigning correct asset tag (OSDCOMPUTERNAME) during deployment
+- Hardware shipping and logistics - configuring replacement shipment with correct details including return label for failed hardware recovery
+- User communication under pressure - maintaining professional, calm communication with user during a CRITICAL business-stopping incident
+- End-to-end ownership - managed the entire incident from initial diagnosis through deployment, shipping, and user confirmation
 
 ##
 
