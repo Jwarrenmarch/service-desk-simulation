@@ -45,13 +45,21 @@ Ticket closed with resolution notes documenting all changes made
 Resolution Steps:
 
 Received and read ticket then identified three distinct changes required, not just a simple name update
+
 Searched user directory for “Amanda foster” to locate account
+
 Verified user identity by cross-referencing username (afoster), department (finance), and Employee ID (EMP-4127) against ticket details before making any changes.
+
 Selected change Name and Email from the user profile
+
 Update Display Name to Amanda Reyes
+
 Update primary email to areyes@servicedesk-simulator.com
+
 Added afroster@servicedesk-simulator.com as an email alias - ensuring all existing email threads and replies remain accessible to the user
+
 Saved changes and confirmed updates applied correctly
+
 Closed ticket with clear resolution notes for audit trail
 
 Key Skills Demonstrated
