@@ -9,7 +9,7 @@
 
 Amanda Foster (afroster@servicedesk-simulator.com), Finance Department, submitted a request following a legal name change after marriage. HR had already approved and updated their records
 
-** Change requested: **
+**Change requested:**
 
 - Display name updated from Amanda Fister to Amanda Reyes
 - New email address: areyes@servicedesk-simulator.com
