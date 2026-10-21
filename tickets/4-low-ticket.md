@@ -1,4 +1,4 @@
-# Ticket 04 - Legal Name change After Marriage
+# Ticket 04 - Legal Name Change After Marriage
 
 **Ticket ID:** INC0012861
 **Priority:** LOW
