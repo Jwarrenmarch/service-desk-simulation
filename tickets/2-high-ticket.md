@@ -107,10 +107,10 @@ Read ticket and assessed symptoms - identified likely graphics driver issue base
 
 Key skills Demonstrated
 
--High priority incident management - appropriate urgency and response
--Remote desktop support - connecting to and troubleshooting a user’s machine remotely
+- High priority incident management - appropriate urgency and response
+- Remote desktop support - connecting to and troubleshooting a user’s machine remotely
 - Systematic troubleshooting methodology - ruling out memory and storage before identifying drivers as root cause
--Driver and firmware update management - identifying outdated drivers as root cause of performance degradation
+- Driver and firmware update management - identifying outdated drivers as root cause of performance degradation
 - System diagnostics - reading system specs to eliminate hardware resource issues
 - Remote resolution without requiring physical access - fully resolved via remote desktop
 
