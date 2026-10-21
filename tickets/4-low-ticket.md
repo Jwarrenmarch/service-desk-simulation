@@ -42,36 +42,41 @@ Ticket closed]
 <img width="1440" height="625" alt="lower ticket 7" src="https://github.com/user-attachments/assets/8bc1bb00-9206-49a0-b251-408e78dd5799" />
 Ticket closed with resolution notes documenting all changes made
 
-Resolution Steps:
+## Resolution Steps:
 
-Received and read ticket then identified three distinct changes required, not just a simple name update
+- Received and read ticket then identified three distinct changes required, not just a simple name update
 
-Searched user directory for “Amanda foster” to locate account
+- Searched user directory for “Amanda foster” to locate account
 
-Verified user identity by cross-referencing username (afoster), department (finance), and Employee ID (EMP-4127) against ticket details before making any changes.
+- Verified user identity by cross-referencing username (afoster), department (finance), and Employee ID (EMP-4127) against ticket details before making any changes.
 
-Selected change Name and Email from the user profile
+- Selected change Name and Email from the user profile
 
-Update Display Name to Amanda Reyes
+- Update Display Name to Amanda Reyes
 
-Update primary email to areyes@servicedesk-simulator.com
+- Update primary email to areyes@servicedesk-simulator.com
 
-Added afroster@servicedesk-simulator.com as an email alias - ensuring all existing email threads and replies remain accessible to the user
+- Added afroster@servicedesk-simulator.com as an email alias - ensuring all existing email threads and replies remain accessible to the user
 
-Saved changes and confirmed updates applied correctly
+- Saved changes and confirmed updates applied correctly
 
-Closed ticket with clear resolution notes for audit trail
+- Closed ticket with clear resolution notes for audit trail
 
-Key Skills Demonstrated
+## Key Skills Demonstrated
 
 -User account administration in a directory system
+
 -Identity verification before making account changes
+
 -Email alias management -preserving continuity for the user
+
 -Attention to detail - correctly identifying all three required changes from one request
+
 -clear resolution documentation for audit trail purpose
+
 -low priority ticket managed efficiently without unnecessary escalation.
 
-What I learned
+## What I learned
 This ticket demonstrated that a seemingly simple name change request can involve multiple interdependent changes - display name, primary email, and alias configuration. Missing any one of these would have caused disruption to the user. In a real environment this type of change would typically require verification of HR approval before proceeding, which was confirmed in the ticket itself. Identity and access management task require careful reading of the full request before acting.
 
 
