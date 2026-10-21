@@ -93,6 +93,8 @@ Located five deployed assets assigned to the user
 Opened laptop record SD1066 - unassigned from user, status update to Ready to deploy
 Closed ticket with resolution notes referencing HR checklist completion.
 
+##
+
 Key Skills Demonstrated
 Employee off boarding and account de provisioning
 Active Directory / directory services - account management and group administration
@@ -101,6 +103,8 @@ Software license management - identifying and revoking assigned licenses
 IT asset management - locating, reviewing, and un assigning hardware from departing employees
 -Methodical checklist approach - working through multiple interdependent tasks systematically
 -Clear resolution documentation for HR and audit trail.
+
+##
 
 What I learned
 Employee off boarding is more complex than it appears - it requires coordinating across multiple systems simultaneously: directory services, licensing, and asset management. Missing any step creates a security risk, as a former employee could retain access to systems, software, or physical hardware. This ticket reinforced the importance of following a structured checklist approach and documenting every action taken for compliance and audit purposes. In a real environment this process would typically also include data backup, email forwarding configuration, and handover of any shared accounts or passwords held by the departing employee.
