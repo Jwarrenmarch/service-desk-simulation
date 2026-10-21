@@ -79,30 +79,31 @@ Ticket closed with resolution notes confirming all offboarding steps completed p
 
 Resolution Steps
 
-Located user account smithell in the directory by searching “Sarah” and crossing-referencing department and username against ticket details 
-Navigated to Authentication tab - confirmed account was already disabled
-Reset password to prevent any residual access using saved credentials or session tokens
-Navigated to Groups tab - identified three group membership: Domain Users, Marketing, Printer-Users
-Removed Marketing group membership
-Removed Printed-Users group membership
-Retained Domain Users - base system group, standard practice not to remove
-Navigated to Licenses tab - identified four active software licenses
-Removed all four licenses: Office Suite E3, Video Meet Pro, Team Messenger Business, Design Suite
-Open Asset Management - searched by user name Sarah Mitchell
-Located five deployed assets assigned to the user
-Opened laptop record SD1066 - unassigned from user, status update to Ready to deploy
-Closed ticket with resolution notes referencing HR checklist completion.
+- Located user account smithell in the directory by searching “Sarah” and crossing-referencing department and username against ticket details 
+- Navigated to Authentication tab - confirmed account was already disabled
+- Reset password to prevent any residual access using saved credentials or session tokens
+- Navigated to Groups tab - identified three group membership: Domain Users, Marketing, Printer-Users
+- Removed Marketing group membership
+- Removed Printed-Users group membership
+- Retained Domain Users - base system group, standard practice not to remove
+- Navigated to Licenses tab - identified four active software licenses
+- Removed all four licenses: Office Suite E3, Video Meet Pro, Team Messenger Business, Design Suite
+- Open Asset Management - searched by user name Sarah Mitchell
+- Located five deployed assets assigned to the user
+- Opened laptop record SD1066 - unassigned from user, status update to Ready to deploy
+- Closed ticket with resolution notes referencing HR checklist completion.
 
 ##
 
 Key Skills Demonstrated
-Employee off boarding and account de provisioning
-Active Directory / directory services - account management and group administration
-Security compliance - understanding why prompt off boarding matters for data protection
-Software license management - identifying and revoking assigned licenses
-IT asset management - locating, reviewing, and un assigning hardware from departing employees
--Methodical checklist approach - working through multiple interdependent tasks systematically
--Clear resolution documentation for HR and audit trail.
+
+- Employee off boarding and account de provisioning
+- Active Directory / directory services - account management and group administration
+- Security compliance - understanding why prompt off boarding matters for data protection
+- Software license management - identifying and revoking assigned licenses
+- IT asset management - locating, reviewing, and un assigning hardware from departing employees
+- Methodical checklist approach - working through multiple interdependent tasks systematically
+- Clear resolution documentation for HR and audit trail.
 
 ##
 
