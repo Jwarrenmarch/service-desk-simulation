@@ -64,17 +64,17 @@ Ticket closed with resolution notes documenting all changes made
 
 ## Key Skills Demonstrated
 
--User account administration in a directory system
+- User account administration in a directory system
 
--Identity verification before making account changes
+- Identity verification before making account changes
 
--Email alias management -preserving continuity for the user
+- Email alias management -preserving continuity for the user
 
--Attention to detail - correctly identifying all three required changes from one request
+- Attention to detail - correctly identifying all three required changes from one request
 
--clear resolution documentation for audit trail purpose
+- Clear resolution documentation for audit trail purpose
 
--low priority ticket managed efficiently without unnecessary escalation.
+- Low priority ticket managed efficiently without unnecessary escalation.
 
 ## What I learned
 This ticket demonstrated that a seemingly simple name change request can involve multiple interdependent changes - display name, primary email, and alias configuration. Missing any one of these would have caused disruption to the user. In a real environment this type of change would typically require verification of HR approval before proceeding, which was confirmed in the ticket itself. Identity and access management task require careful reading of the full request before acting.
