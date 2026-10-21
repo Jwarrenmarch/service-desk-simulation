@@ -12,7 +12,7 @@ Amanda Foster (afroster@servicedesk-simulator.com), Finance Department, submitte
 **Change requested:**
 
 - Display name updated from Amanda Fister to Amanda Reyes
-- New email address: areyes@servicedesk-simulator.com
+- New email address: (areyes@servicedesk-simulator.com)
 - Old email address (afroster@servicedesk-simulator.com to remain active as an alias to preserve replies to existing emails
 
 -----
