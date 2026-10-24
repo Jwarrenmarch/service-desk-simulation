@@ -51,7 +51,7 @@ Successfully connected to Nina Patel desktop and confirmed remote access establi
 
 [Setting Search]
 <img width="1440" height="690" alt="Screenshot 2026-09-30 at 7 56 47 PM" src="https://github.com/user-attachments/assets/5de74dd7-99e3-4972-b46e-e272ec1f5277" />
-Opened Settings and searched for System Update to investigate driver and firmware status.
+Opened settings and searched for system update to investigate driver and firmware status.
 
 [System Information]
 <img width="1440" height="690" alt="Screenshot 2026-09-30 at 7 58 24 PM" src="https://github.com/user-attachments/assets/e8834233-305f-4e6f-b9b1-d277fcc6487c" />
@@ -61,7 +61,7 @@ Reviewed system specs: 32GB RAM at 38% usage and storage at 62% which ruled out 
 <img width="1440" height="690" alt="Screenshot 2026-09-30 at 7 58 47 PM" src="https://github.com/user-attachments/assets/1fe824db-97be-40bf-aa84-c91386c2e1de" />
 Check for Update revealed 6 pending updates including
 - BIOS Update v1.58 -> v1.62
-- integrated Graphics Driver 31.0.101.4887 -> 31.0.101.5186
+- Integrated Graphics Driver 31.0.101.4887 -> 31.0.101.5186
 - Onboard Audio Driver
 - System Firmware Update v2.1 -> v2.4
 - Power Management Driver
@@ -77,7 +77,7 @@ All 6 updates installed successfully, and the system prompted restart to apply c
 <img width="1440" height="690" alt="Screenshot 2026-09-30 at 7 59 24 PM" src="https://github.com/user-attachments/assets/651eba85-cee5-4a48-bdf7-200c1b67423f" />
 <img width="1440" height="690" alt="Screenshot 2026-09-30 at 7 59 33 PM" src="https://github.com/user-attachments/assets/f180c47d-9470-4ab9-b670-6afc693a7057" />
 <img width="1440" height="715" alt="Screenshot 2026-09-30 at 8 00 13 PM" src="https://github.com/user-attachments/assets/85a88856-2008-442b-a003-5210714b80a9" />
-System restarted successfully and the confirmed device returned to the login screen. A Solution complete prompt confirmed correct resolution.
+System restarted successfully and the confirmed device returned to the login screen. A solution complete prompt confirmed correct resolution.
 
 [Ticket Closed]
 <img width="1440" height="715" alt="Screenshot 2026-09-30 at 8 01 54 PM" src="https://github.com/user-attachments/assets/9a2b8553-a5d3-488d-ab70-715fdd21b822" />
