@@ -1,9 +1,13 @@
 # Ticket 03 - Slow and Choppy Screen Performance
 
 **Ticket ID:** INC920819
+
 **Priority:** High
+
 **Category:** Hardware/ Driver Issue - Display Performance
+
 **Status:** Resolved 
+
 **Business Impact:** Computer nearly unusable - Multiple engineering projects stalled
 
 
