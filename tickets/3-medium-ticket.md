@@ -1,4 +1,4 @@
-# Ticket 02 - Employee Off boarding / Account Deprovisioning
+# Ticket 02 - Employee Offboarding / Account Deprovisioning
 
 **Ticket ID:** INC300944
 
@@ -14,7 +14,7 @@
 
 ## User Request
 
-Mike Reeves (Facilities, Floor 3) submitted an HR-approved off boarding request for Sarah Mitchell (smitchell), Marketing Department, whose last day is this Friday. Required actions per off boarding checklist:
+Mike Reeves (Facilities, Floor 3) submitted an HR-approved offboarding request for Sarah Mitchell (smitchell), Marketing Department, whose last day is this Friday. Required actions per offboarding checklist:
 
 - Disable account
 - Rest password
@@ -73,7 +73,7 @@ Opened the SD1066 laptop record and unassigned it from Sarah Mitchell. Updated t
 
 [Ticket Closed]
 <img width="1445" height="640" alt="Screenshot 2026-09-25 at 8 39 05 PM" src="https://github.com/user-attachments/assets/d50f2d25-c11c-46ca-89cf-1778b36b8ee5" />
-Ticket closed with resolution notes confirming all off boarding steps completed per HR checklist.
+Ticket closed with resolution notes confirming all offboarding steps completed per HR checklist.
 
 ##
 
@@ -97,7 +97,7 @@ Resolution Steps
 
 Key Skills Demonstrated
 
-- Employee off boarding and account de provisioning
+- Employee offboarding and account deprovisioning
 - Active Directory / directory services - account management and group administration
 - Security compliance - understanding why prompt off boarding matters for data protection
 - Software license management - identifying and revoking assigned licenses
@@ -108,6 +108,7 @@ Key Skills Demonstrated
 ##
 
 What I learned
-Employee off boarding is more complex than it appears - it requires coordinating across multiple systems simultaneously: directory services, licensing, and asset management. Missing any step creates a security risk, as a former employee could retain access to systems, software, or physical hardware. This ticket reinforced the importance of following a structured checklist approach and documenting every action taken for compliance and audit purposes. In a real environment this process would typically also include data backup, email forwarding configuration, and handover of any shared accounts or passwords held by the departing employee.
+
+Employee offboarding is more complex than it appears: it requires coordinating across multiple systems simultaneously, including directory services, licensing, and asset management. Missing any step creates a security risk, as a former employee could retain access to systems, software, or physical hardware. This ticket reinforced the importance of following a structured checklist approach and documenting every action taken for compliance and audit purposes. In a real environment, this process would typically also include data backup, email forwarding configuration, and handover of any shared accounts or passwords held by the departing employee.
 
 
