@@ -50,7 +50,7 @@ Ticket closed with resolution notes documenting all changes made.
 
 2. Searched user directory for “Amanda Foster” to locate account.
 
-3. Verified user identity by cross-referencing username (afoster), department (Finance), and Employee ID (EMP-4127) against ticket details before making any changes.
+3. Verified user identity by cross-referencing username (afoster), department (Finance), and employee ID (EMP-4127) against ticket details before making any changes.
 
 4. Selected Change Name and Email from the user profile.
 
