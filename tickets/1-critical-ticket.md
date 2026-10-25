@@ -1,13 +1,16 @@
 # Ticket 04 - Critical Hardware Failure / PC Replacement and Deployment
 
 **Ticket ID:** INC0012871
-**Priority:** CRITICAL
-**Category:** Hardware Failure - Complete PC Replacement and Deployment
-**Status:** Resolved
-**Business Impact:** Customer Support agent completely offline - calls queueing with no agent available to answer
-##
 
-User Report
+**Priority:** CRITICAL
+
+**Category:** Hardware Failure - Complete PC Replacement and Deployment
+
+**Status:** Resolved
+
+**Business Impact:** Customer Support agent completely offline - calls queueing with no agent available to answer
+
+## User Report
 
 Quinn Adams (qadams@servicedesk-simulator.com), Customer Support Department, Floor 1, reported their desktop PC was completely dead with no response whatsoever: no lights, no fan, no beep on power button press.
 
