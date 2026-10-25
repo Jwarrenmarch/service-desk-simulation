@@ -100,39 +100,38 @@ Ticket closed with resolution notes documenting PXE boot deployment and shipment
 
 ## Resolution Steps
 
-1. Received CRITICAL ticket - assessed symptoms and confirmed complete hardware failure based on user troubleshooting already performed (outlet confirmed working, no response whatsoever)
-2. Determined repair not viable - immediate replacement machine required
-3. Consulted Documentation Station for correct deployment procedure - located server imaging and deployment credentials guides.
-4. Initiated physical setup of replacement workstation SD2036 - connected all 5 required cables and confirmed Ready to Boot
-5. Booted replacement machine and entered deployment Task Sequence Wizard
-6. Authenticated to deployment share using task sequence credentials from documentation 
-7. Set OSDCOMPUTERNAME variable to SD2036 - ensuring correct asset identity assigned to replacement machine
-8. Ran imaging task sequence - OS setup and domain join complete automatically to servicedesk-simulator.local
-9. Signed in with domain credentials at Step 11 to verify successful deployment
-10. Confirmed deployment successful - SD2036 ready in PC Shelf 
-11. Opened Ship Manager - contacted Quinn Adams via chat to obtain delivery address
-12. Configured shipment: SD2036, Rush Priority (Instant), return label included for failed hardware recovery
-13. Shipped replacement machine to Quinn Adams, 7286 Willow Way, Raleigh, NC 27601
-14. Received user confirmation - replacement received and working correctly
-15. Closed ticket with resolution notes
+1. Received CRITICAL ticket, assessed symptoms, and confirmed complete hardware failure based on user troubleshooting already performed (outlet confirmed working, no response whatsoever).
+2. Determined repair was not viable and an immediate replacement machine was required.
+3. Consulted Documentation Station for the correct deployment procedure and located the server imaging and deployment credentials guides.
+4. Initiated physical setup of replacement workstation SD2036, connected all 5 required cables, and confirmed Ready to Boot.
+5. Booted the replacement machine and entered the deployment Task Sequence Wizard.
+6. Authenticated to the deployment share using task sequence credentials from the documentation.
+7. Set the OSDCOMPUTERNAME variable to SD2036, ensuring the correct asset identity was assigned to the replacement machine.
+8. Ran the imaging task sequence; OS setup and domain join to servicedesk-simulator.local completed automatically.
+9. Signed in with domain credentials at Step 11 to verify successful deployment.
+10. Confirmed deployment successful, with SD2036 ready in the PC Shelf. 
+11. Opened Ship Manager and contacted Quinn Adams via chat to obtain a delivery address.
+12. Configured shipment: SD2036, Rush Priority (Instant), return label included for failed hardware recovery.
+13. Shipped the replacement machine to Quinn Adams, 7286 Willow Way, Raleigh, NC 27601.
+14. Received user confirmation that the replacement was received and working correctly.
+15. Closed ticket with resolution notes.
 
 ## Key Skills Demonstrated
 
-- CRITICAL incident management - correct prioritization and rapid response to business-stopping issue
-- Hardware failure diagnosis - correctly identifying complete hardware failure vs repairable fault based on symptom analysis
+- CRITICAL incident management - correct prioritization and rapid response to a business-stopping issue
+- Hardware failure diagnosis - correctly identifying complete hardware failure versus a repairable fault based on symptom analysis
 - PC deployment and imaging - full end-to-end workstation deployment using PXE boot and server imaging task sequence
-- Domain join process - understanding of domain authentication and workstation provisioning to Active Directory domain
-- Documentation usage - consulting internal SOPs and credentials documentation before proceeding with deployment - following correct procedure
-- Asset management - assigning correct asset tag (OSDCOMPUTERNAME) during deployment
-- Hardware shipping and logistics - configuring replacement shipment with correct details including return label for failed hardware recovery
-- User communication under pressure - maintaining professional, calm communication with user during a CRITICAL business-stopping incident
+- Domain join process - understanding of domain authentication and workstation provisioning to an Active Directory domain
+- Documentation usage - consulting internal SOPs and credentials documentation before proceeding with deployment and following the correct procedure
+- Asset management - assigning the correct asset tag (OSDCOMPUTERNAME) during deployment
+- Hardware shipping and logistics - configuring replacement shipment with correct details, including a return label for failed hardware recovery
+- User communication under pressure - maintaining professional, calm communication with the user during a CRITICAL business-stopping incident
 - End-to-end ownership - managed the entire incident from initial diagnosis through deployment, shipping, and user confirmation
 
 ## What I learned
 
-This was the most complex and high pressure ticket in the simulation, a CRITICAL priority incident with direct business impact requiring a full hardware replacement and deployment rather than a simple fix. The key lesson was recognizing immediately that repair was not an option and pivoting directly to replacement, which minimized downtime for the user.
+This was the most complex and high-pressure ticket in the simulation, a CRITICAL-priority incident with direct business impact requiring a full hardware replacement and deployment rather than a simple fix. The key lesson was recognizing immediately that repair was not an option and pivoting directly to replacement, which minimized downtime for the user.
 
-Consulting the documentation before proceeding with imaging was critical; without the correct task sequence credentials and OSDCOMPUTERNAME variable the deployment would have failed or created an incorrectly named asset in the system. Following procedure and documentation even under pressure is essential in real IT environments.
+Consulting the documentation before proceeding with imaging was critical. Without the correct task sequence credentials and OSDCOMPUTERNAME variable, the deployment would have failed or created an incorrectly named asset in the system. Following procedure and documentation even under pressure is essential in real IT environments.
 
-The user communication element was also significant: maintaining a calm, professional tone with a frustrated user whose entire workflow was blocked, and keeping them updated on progress, is as important as the technical resolution itself.
-
+The user communication element was also significant: maintaining a calm, professional tone with a user whose entire workflow was blocked, and keeping them updated on progress, is as important as the technical resolution itself.
